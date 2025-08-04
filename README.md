@@ -84,7 +84,7 @@ A análise exploratória de dados revelou insights importantes sobre a evasão d
 
 ### **5. Análise de Churn por Tempo de Permanência (Tenure)**
 
-![Churn por Tenure](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Tenure%.png)
+![Tenure](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Tenure%.png)
 ![Churn por Tempo de Permanência](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Permanencia.png)
 *   **Insight:**
     *   A taxa de churn é significativamente alta nos primeiros meses de permanência do cliente, atingindo um pico em torno de 62% no primeiro mês.
