@@ -74,19 +74,18 @@ A análise exploratória de dados revelou insights importantes sobre a evasão d
 
 ### **3. Análise de Churn por Gênero**
 
-*   **Visualização:** Um histograma foi gerado para mostrar a distribuição de churn por gênero.
+![Churn por Genero](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Genero.png)
 *   **Insight:** A distribuição de churn entre homens e mulheres é relativamente equilibrada, sugerindo que o gênero, por si só, não é um fator predominante na decisão de evasão.
 
 ### **4. Análise de Churn por Senior Citizen**
 
-*   **Visualização:** Um histograma foi gerado para mostrar a distribuição de churn por status de Senior Citizen (0 para não idoso, 1 para idoso).
+![Churn por Senior Citizen](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Seniorcitizen.png)
 *   **Insight:** Clientes idosos (Senior Citizen = 1) apresentam uma taxa de churn visivelmente maior em comparação com clientes não idosos (Senior Citizen = 0). Isso indica que este grupo demográfico pode ser mais propenso a evadir.
 
 ### **5. Análise de Churn por Tempo de Permanência (Tenure)**
 
-*   **Visualização:**
-    *   Um histograma mostra a distribuição de churn ao longo do tempo de permanência.
-    *   Um gráfico de linha exibe a taxa de churn percentual para cada mês de permanência.
+![Tenure](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Tenure%.png)
+![Churn por Tempo de Permanência](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Permanencia.png)
 *   **Insight:**
     *   A taxa de churn é significativamente alta nos primeiros meses de permanência do cliente, atingindo um pico em torno de 62% no primeiro mês.
     *   A taxa de churn diminui drasticamente à medida que o tempo de permanência aumenta, estabilizando-se em níveis baixos para clientes com mais de 60 meses de permanência. Isso sugere que clientes de longo prazo são mais leais.
@@ -94,7 +93,8 @@ A análise exploratória de dados revelou insights importantes sobre a evasão d
 
 ### **6. Relação entre Tempo de Permanência e Encargos Mensais**
 
-*   **Visualização:** Um gráfico de dispersão foi utilizado para explorar a relação entre o tempo de permanência e os encargos mensais, colorindo os pontos pelo status de churn.
+![Contrato](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Contrato.png)
+![Status](https://raw.githubusercontent.com/SergioBurlamaK/telecom-churn-insights/main/outputs/Status.png)
 *   **Insight:**
     *   Clientes com contratos de curto prazo (Month-to-month) e encargos mensais mais altos tendem a ter uma maior taxa de churn, especialmente nos primeiros meses.
     *   Clientes com contratos de longo prazo (One year, Two year) e encargos mensais variados demonstram menor propensão ao churn, independentemente do valor mensal.
