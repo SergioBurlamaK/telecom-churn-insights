@@ -1,12 +1,12 @@
 # Análise de Evasão de Clientes (Churn) - TelecomX
 
-## 📄 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este projeto tem como objetivo principal analisar e compreender os fatores que levam à evasão de clientes (churn) em uma empresa de telecomunicações fictícia, a TelecomX. Através da análise de dados de clientes, buscamos identificar padrões e tendências que possam auxiliar na retenção de clientes e na formulação de estratégias de negócio mais eficazes.
 
 O notebook `TelecomX_BR.ipynb` detalha todo o processo, desde a extração e transformação dos dados até a análise exploratória e visualização dos resultados.
 
-## 📊 Dados
+## Dados
 
 Os dados utilizados nesta análise foram obtidos de um arquivo JSON disponível publicamente. O dataset contém informações detalhadas sobre os clientes da TelecomX, incluindo:
 
@@ -18,7 +18,7 @@ Os dados utilizados nesta análise foram obtidos de um arquivo JSON disponível 
 
 **Fonte dos Dados:** `https://raw.githubusercontent.com/alura-cursos/challenge2-data-science/refs/heads/main/TelecomX_Data.json`
 
-## 🚀 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 telecom-churn-insights/
@@ -27,13 +27,13 @@ telecom-churn-insights/
 └── README.md
 ```
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 *   **Python:** Linguagem de programação principal.
 *   **Pandas:** Biblioteca para manipulação e análise de dados.
 *   **Plotly Express:** Biblioteca para criação de visualizações interativas.
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 Para replicar a análise, siga os passos abaixo:
 
@@ -54,7 +54,7 @@ Para replicar a análise, siga os passos abaixo:
         *   **Transformação:** Realiza a limpeza e o pré-processamento dos dados.
         *   **Carga e Análise:** Apresenta as visualizações e insights.
 
-## 🔍 Análise e Resultados
+## Análise e Resultados
 
 A análise exploratória de dados revelou insights importantes sobre a evasão de clientes:
 
@@ -100,7 +100,7 @@ A análise exploratória de dados revelou insights importantes sobre a evasão d
     *   Clientes com contratos de longo prazo (One year, Two year) e encargos mensais variados demonstram menor propensão ao churn, independentemente do valor mensal.
     *   Há uma concentração de clientes com churn nos primeiros meses de contrato, independentemente do valor do encargo mensal, reforçando o insight anterior sobre a importância dos primeiros meses.
 
-## 💡 Conclusões e Recomendações
+## Conclusões e Recomendações
 
 Com base na análise, as seguintes conclusões e recomendações podem ser feitas:
 
@@ -109,17 +109,17 @@ Com base na análise, as seguintes conclusões e recomendações podem ser feita
 *   **Análise de Contratos:** Clientes com contratos mensais (Month-to-month) são mais suscetíveis ao churn. Incentivar contratos de longo prazo com benefícios adicionais pode ser uma estratégia de retenção.
 *   **Monitoramento de Encargos Mensais:** Embora não seja o único fator, a combinação de altos encargos mensais e curto tempo de permanência está associada a maior churn. É importante avaliar a competitividade dos preços e o valor percebido pelos clientes.
 
-## 🤝 Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções ou novas análises.
 
-## 👨‍💻 Autor  
+## Autor  
 
 |  |  |
 |--|--|
-| ✨ **Nome** | Sergio Burlamaqui |
-| 📌 **GitHub** | [![GitHub](https://img.shields.io/badge/-SergioBurlamaK-181717?style=flat&logo=github&logoColor=white)](https://github.com/SergioBurlamaK) |
-| 📧 **E-mail** | [![Outlook](https://img.shields.io/badge/-sergio_o.b_junior@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sergio_o.b_junior@hotmail.com) |
-| 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Sergio_Burlamaqui-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioburlamaqui/) |
+| **Nome** | Sergio Burlamaqui |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/-SergioBurlamaK-181717?style=flat&logo=github&logoColor=white)](https://github.com/SergioBurlamaK) |
+| **E-mail** | [![Outlook](https://img.shields.io/badge/-sergio_o.b_junior@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sergio_o.b_junior@hotmail.com) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Sergio_Burlamaqui-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioburlamaqui/) |
 
 ---
