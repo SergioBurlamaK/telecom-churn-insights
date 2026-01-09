@@ -1,5 +1,7 @@
 # Análise de Evasão de Clientes (Churn) - TelecomX
 
+Este repositório foca na Análise Exploratória e ETL, para ver a implementação do modelo de Machine Learning clique aqui: [Modelagem Preditiva e ML](https://github.com/SergioBurlamaK/telecom-churn-insights-pt2)
+
 ## Visão Geral do Projeto
 
 Este projeto tem como objetivo principal analisar e compreender os fatores que levam à evasão de clientes (churn) em uma empresa de telecomunicações fictícia, a TelecomX. Através da análise de dados de clientes, buscamos identificar padrões e tendências que possam auxiliar na retenção de clientes e na formulação de estratégias de negócio mais eficazes.
